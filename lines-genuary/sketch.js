@@ -11,17 +11,18 @@ function draw() {
   var couleurs = ["red", "black", "white"];
   var coureurs2 = ["white", "black"];
   var linesWidth;
-  var choiceGenuary;
-  choiceGenuary = random(["horizontal lines", 2]);
+  //var choiceGenuary;
+  //choiceGenuary = random(["horizontal lines", 2]);
 
-  var numLines = 1000;
+  var numLines;
+  numLines = round(random(1, 1000));
   //on va diviser l'écran en sous-parties
   for (let i = 1; i < 5; i++) {
     var width = windowWidth;
     var height = windowHeight;
 
     for (let i = 0; i < numLines; i++) {
-      linesWidth = random([0.5, 1, 2, 3]);
+      linesWidth = random([0.5, 1, 2, 3, 4.5, 6]);
       strokeWeight(linesWidth);
       var couleur = random(couleurs);
 

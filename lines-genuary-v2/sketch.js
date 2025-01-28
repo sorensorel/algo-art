@@ -1,5 +1,6 @@
 //Mix between Jan 1 (Vertical lines only), JAN 12 (subdivision) and JAN 14 (Pure black and white)
 // Inspiré de l'esthétique de Ryoji Ikeda
+// Inspiré de l'exemple du prof aussi (celui durant lequel une oeuvre de Ikeda a été reproduite en classe)
 
 function setup() {
   var width = 1000;
