@@ -1,6 +1,6 @@
 # Projet 2 : Oeuvre d'art autour d'un algorithme : 'L'arborescence chatouillée'
 
-Le projet a été effectué en collaboration avec Étienne Colin : il m'a aidé à programmer et m'a fourni des idées.
+Le projet a été effectué en collaboration avec Étienne Collin (@etiennecollin): il m'a aidé à programmer et m'a fourni des idées.
 Il est principalement basé sur la vidéo suivante :
 https://www.youtube.com/watch?v=z7LeTu94qEc&ab_channel=ProgrammingChaos
 
