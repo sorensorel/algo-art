@@ -1,4 +1,4 @@
-// En collaboration avec Etienne Colin
+// En collaboration avec Etienne Collin (@etiennecollin)
 // Inspiration : pissenlit lorsqu'on souffle dessus
 
 var iris;

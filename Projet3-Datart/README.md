@@ -1,7 +1,6 @@
 # Projet 2 : Oeuvre d'art autour du thème des données : La sérendipité souffle et tournoie
 
-Le projet a été effectué en collaboration avec Étienne Colin : il m'a aidé à programmer et m'a fourni des idées.
-
+Le projet a été effectué en collaboration avec Etienne Collin (@etiennecollin): il m'a aidé à programmer et m'a fourni des idées.
 
 ## Les données
 
